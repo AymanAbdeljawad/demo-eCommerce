@@ -1,0 +1,45 @@
+header {
+  background-color: #09c;
+  padding: 1rem;
+  width:100%;
+  margin:0 auto;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+body {
+  padding-top: 60px;
+}
+
+
+.search-input {
+  width: 300px;
+}
+
+.search-button {
+  padding: 0.25rem 0.5rem;
+  font-size: 1rem;
+  width: 80px;
+
+}

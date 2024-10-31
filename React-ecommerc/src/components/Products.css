@@ -1,0 +1,10 @@
+.custom-background {
+  /*background-color: #ff1212; */
+}
+.Loading,.Error{
+    margin-top: 30px;
+}
+
+.btn.disabled, .btn:disabled, fieldset:disabled .btn {
+    width: 90%;
+}
